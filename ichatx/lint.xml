@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="InvalidPackage">
+        <ignore path="libs/httpclient-4.4.1.jar" />
+		<ignore path="libs/httpcore-4.4.1.jar" />
+    </issue>
+</lint>

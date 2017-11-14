@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidChatX.iml" filepath="$PROJECT_DIR$/AndroidChatX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ichatagorax/ichatagorax.iml" filepath="$PROJECT_DIR$/ichatagorax/ichatagorax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ichatx/ichatx.iml" filepath="$PROJECT_DIR$/ichatx/ichatx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ichatxvidyo/ichatxvidyo.iml" filepath="$PROJECT_DIR$/ichatxvidyo/ichatxvidyo.iml" />
+    </modules>
+  </component>
+</project>

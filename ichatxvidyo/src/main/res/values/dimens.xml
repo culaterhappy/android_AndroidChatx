@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+	<dimen name="video_engagement_animation_margin_top">40dp</dimen>
+    <dimen name="video_engagement_message_width">380dp</dimen>
+    <dimen name="video_engagement_animation_size">220dp</dimen>
+    <dimen name="video_engagement_view_marginTop">70dp</dimen>
+    <dimen name="video_view_width">500dp</dimen>
+    <dimen name="video_view_height">350dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="fab_size_normal">40dp</dimen>
+</resources>

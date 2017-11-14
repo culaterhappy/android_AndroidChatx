@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">ichatxvidyo</string>
+	<string name="action_settings">Settings</string>
+    <string name="ok">OK</string>
+
+    <color name="BackgroundColor">#4DB8DB</color>
+    <string name="MobileURL">http://121.199.10.37:90/M</string>
+
+    <string name="noInternetConnectionURL">file:///android_asset/www/No_Internet.html</string>
+
+    <string name="hello">Welcome to VidyoSampleActivity!</string>
+
+    <string name="login">签入</string>
+    <string name="join_button_text">Join Own Room</string>
+    <string name="join_dialog_title">Join My own room</string>
+    <string name="secured_checkbox">secured</string>
+
+    <!-- Connecting to Video Engagement -->
+    <string name="contacting_provider">You are the next patient to see {0}.</string>
+    <string name="be_patient">{0} is reviewing your information. Your visit will begin shortly.</string>
+    <string name="conversation_begin">请等待.\n视频会议初始化中.</string>
+    <string name="refresh_video_loading">Refreshing Video&#8230;\nThe provider can call you back if you lose your connection.</string>
+    <string name="ending_engagement_text">请等待，您正在退出视频会议室!.</string>
+    <string name="be_there_shortly">The provider will be with you shortly</string>
+    <string name="paged_with_request">This provider has been paged with your request.</string>
+    <string name="video_connect_failed">Connection Failed</string>
+    <string name="video_connect_failed_info">The connection to the video server failed.</string>
+    <string name="video_issue_request">If your visit is interrupted or dropped for any reason, the provider will call you back at the number you entered.</string>
+    <string name="confirm_cancel">Confirm Cancel</string>
+
+    <!-- Vidyo Console -->
+    <string name="console_title">Video Conversation</string>
+    <string name="console_endConversation">End Visit</string>
+    <string name="console_end">End</string>
+    <string name="console_refresh_video">Refresh Video</string>
+    <string name="console_end_engagement_message">This will end your visit.</string>
+    <string name="console_lost_video_message">This will end your visit.  We suggest waiting a few minutes to see if your video returns.</string>
+    <string name="console_the_end_is_near_message">You have less than 1 minute remaining.</string>
+    <string name="console_conversation_expired">The available time for this visit has expired.</string>
+
+    <!-- General -->
+    <string name="misc_cancel">取消</string>
+    <string name="misc_exit">退出</string>
+    <string name="title_activity_settings">配置</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">基本配置</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Chat服务器地址</string>
+    <string name="pref_default_display_name">121.199.10.37</string>
+
+    <string name="pref_title_add_friends_to_messages">视频类型</string>
+    <string-array name="pref_example_list_titles">
+        <item>Vidyo</item>
+        <item>声网</item>
+        <item>AnyChat</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+	
+</resources>
